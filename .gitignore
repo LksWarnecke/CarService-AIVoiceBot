@@ -1,0 +1,39 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python package artifacts
+build/
+dist/
+*.egg
+*.egg-info/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-text/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+ai/
+
+# Environment variables and sensitive files
+.env
+
+# Database and logs
+auto_db.sqlite
+*.log
+
+# Testing
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+
+# Miscellaneous
+__pycache__/
